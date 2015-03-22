@@ -14,6 +14,7 @@ golang gin middleware list
 * [Gin middlewares contributed](https://github.com/gin-gonic/contrib)
 
 
+
 * [CORS Middleware](https://github.com/benpate/gin-middleware-cors)
 
 Cross Origin Resource Sharing
@@ -24,3 +25,6 @@ Cross Origin Resource Sharing
 
 A wrapper for golang web framework gin to use net/http/pprof easily.
 
+
+* [StaticBin](https://github.com/olebedev/staticbin)
+Gin middleware/handler for serving static files from binary data.
